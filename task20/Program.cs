@@ -14,11 +14,14 @@
 
 // 2 способ
 
-Console.WriteLine("Enter number N:");
-int number = Convert.ToInt32(Console.ReadLine());
-int count =1;
-for( int i = 1; i <= number; i++)
-{
-    count = count*i;
-}
-Console.WriteLine(count);
+// Console.WriteLine("Enter number N:");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int count =1;
+// for( int i = 1; i <= number; i++)
+// {
+//     count = count*i;
+// }
+// Console.WriteLine(count);
+
+
+
